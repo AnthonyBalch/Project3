@@ -2,6 +2,8 @@
  * @author Mohammad Mukhtaruzzaman
  * @version 2019-10-08
 */
+
+//TEST
 import java.io.IOException;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
@@ -38,7 +40,7 @@ public class Main
 		
 		/**
 		 * Section 1
-		 * Current value of “Second” will be stored in vlaueOfSecondNow 
+		 * Current value of â€œSecondâ€� will be stored in vlaueOfSecondNow 
 		 * and will print as, "The value of Second now: 58"
 		 * Remember, this is the format only, value should be the current time.
 		 */
